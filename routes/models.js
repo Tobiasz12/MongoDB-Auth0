@@ -4,7 +4,7 @@ var shipmentSchema = new mongoose.Schema({
     givenName: {
         type: String
     },
-    surname: {
+    nickName: {
         type: String
     }
 });
